@@ -1,6 +1,7 @@
 endpoint: "https://g2.gumgum.com/providers/prbds2s/bid"
 maintainer:
   email: "prebid@gumgum.com"
+  change_notification_email: "prebid@gumgum.com"
 gvlVendorID: 61
 capabilities:
   site:

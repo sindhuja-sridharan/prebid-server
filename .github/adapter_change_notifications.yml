@@ -1,0 +1,5 @@
+# Mapping of adapters to email addresses for change notifications
+# Add your adapter name and email to receive notifications about code updates
+notifications:
+  gumgum:
+    - prebid@gumgum.com
